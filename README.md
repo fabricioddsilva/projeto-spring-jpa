@@ -22,6 +22,9 @@ git clone = https://github.com/fabricioddsilva/projeto-spring-jpa
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+---
+Para ver o que eu aprendi durante esse curso, meu repositório https://github.com/fabricioddsilva/curso-java contem todos
+os exercícios que eu fiz durante o curso.
 
 # Autor
 
